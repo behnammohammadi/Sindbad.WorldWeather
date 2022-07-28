@@ -1,0 +1,10 @@
+global using FluentAssertions;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Logging;
+global using Moq;
+global using Sindbad.WorldWeather.WebApi.Controllers;
+global using Sindbad.WorldWeather.WebApi.DAL;
+global using Sindbad.WorldWeather.WebApi.Models;
+global using Sindbad.WorldWeather.WebApi.Proxies;
+global using Sindbad.WorldWeather.WebApi.Webhooks;
+global using Xunit;
